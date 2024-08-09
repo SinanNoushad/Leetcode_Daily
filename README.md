@@ -19,3 +19,25 @@ Each day's challenge is stored in a separate folder named after the date (in `YY
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/leetcode-daily-challenge.git
+
+2. **Navigate to the challenge of the day:**
+    ```bash
+    cd leetcode-daily-challenge/YYYY-MM-DD
+
+3. **Run the solution:**
+    ```bash
+    python Solution.py
+
+## Goals
+
+- Consistency: Solve at least one coding challenge every day.
+- Learning: Explore different problem types, algorithms, and data structures.
+- Documentation: Keep a record of problems and solutions for future reference.
+
+## Progress
+
+
+Date	Problem ID/Name	Difficulty	Solution Status
+YYYY-MM-DD	Two Sum	Easy	Completed
+YYYY-MM-DD	Add Two Numbers	Medium	Completed
+...	...	...	...
