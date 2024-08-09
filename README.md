@@ -36,8 +36,8 @@ Each day's challenge is stored in a separate folder named after the date (in `YY
 
 ## Progress
 
-
-Date	Problem ID/Name	Difficulty	Solution Status
-YYYY-MM-DD	Two Sum	Easy	Completed
-YYYY-MM-DD	Add Two Numbers	Medium	Completed
-...	...	...	...
+| Date       | Problem ID/Name                  | Difficulty | Solution Status |
+|------------|----------------------------------|------------|-----------------|
+| YYYY-MM-DD | [Two Sum](https://leetcode.com/) | Easy       | Completed       |
+| YYYY-MM-DD | [Add Two Numbers](https://leetcode.com/) | Medium    | Completed       |
+| ...        | ...                              | ...        | ...             |
