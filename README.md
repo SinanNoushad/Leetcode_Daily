@@ -41,3 +41,11 @@ Each day's challenge is stored in a separate folder named after the date (in `YY
 | 2024-08-05 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05) | Easy       | Completed       |
 | 2024-08-06 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2024-08-05) | Medium    | Completed       |
 | 2024-08-07 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/?envType=daily-question&envId=2024-08-05)| Hard | Completed |
+
+
+## Contributing
+
+Feel free to fork this repository, submit pull requests, or suggest improvements!
+
+
+Happy coding! 😊
